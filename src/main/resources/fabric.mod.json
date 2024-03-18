@@ -3,13 +3,12 @@
 	"id": "wikitools",
 	"version": "${version}",
 	"name": "Wikitools",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A mod used to simplify creating renders and assets for Wikis.",
 	"authors": [
-		"Me!"
+		"Oxyopia"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/Oxyopiia/Wikitools"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/wikitools/icon.png",
@@ -31,8 +30,5 @@
 		"java": ">=17",
 		"fabric-api": "*",
 		"fabric-language-kotlin": ">=1.9.23"
-	},
-	"suggests": {
-		"another-mod": "*"
 	}
 }
